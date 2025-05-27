@@ -83,7 +83,7 @@ Hopechain is not just a platform—it's a movement to **bridge healthcare gaps**
 
 ---
 
-📩 **Contact**: [info@hopechain.org](mailto:info@hopechain.org)
+📩 **Contact**: [info@hopechain.org](mailto:info@hopechainmedical.org)
 🔒 **License**: MIT License
 © 2025 Hopechain. All rights reserved.
 
